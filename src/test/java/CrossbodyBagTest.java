@@ -12,7 +12,7 @@ import org.junit.*;
 import static org.junit.Assert.*;
 
 
-public class CrossbodyBagTest {
+public class CrossbodyBagTest{
     CrossbodyBag b;
 
     @Before
